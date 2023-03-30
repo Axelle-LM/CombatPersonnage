@@ -40,8 +40,7 @@ class personnageManager{
         }
     }
 
-    //couraaaaaaaaaaaaaaaaaaaaaaaaaaaaage merciiiiii jpppp t'es chou je t'aime moa aussi t'es chou toa aussi si je réussi avant la fin de l'heure on minecraft ? '^' jppppp jppppp oké mé j'ai po de souris je vais y aller avec le touchpad pour la cam oké tkt jppppp parfait.
-
+ 
     //public function deletePerso($perso_supprimer){
         //$query=$this->db->query("DELETE FROM personnage WHERE personnage.id = ");
         //$query -> execute();
