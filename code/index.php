@@ -20,8 +20,6 @@ $db = new PDO('mysql:host=localhost;dbname=poo_sgbd;port=3306;charset=utf8', 'ro
 
 
 include ('Personnage.php');
-//include('Guerrisseur.php');
-//include ('Guerrier.php');
 
 include('personnageManager.php');
 $manager= new personnageManager($db);
