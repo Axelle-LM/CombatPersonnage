@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+body {
+    background:rgb(30,30,40);
+    color: aliceblue;
+    height: 100vh;
+}
+
+form {
+    max-width:250px;
+    margin:20px auto;
+}
+
+.select {
+    color:white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight:400;
+    font-size: 14px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: transparent;
+    border:2px solid #CC6666;
+    padding: 10px;
+    margin-bottom: 10px;
+    width:100%;
+    outline:0;
+}
+
+h4 {
+    color: antiquewhite;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.input {
+  color:white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:2px solid #CC6666;
+  transition: all 0.3s;
+  padding: 10px;
+  margin-bottom: 15px;
+  width:100%;
+  outline:0;
+}
+
+.input:focus {
+    border:2px solid #CC4949;
+}
+
+.submit {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  background:#CC6666;
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
+  color:white;
+  font-size:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+
+.submit:hover {
+    background:#CC4949;
+}
+
+option {
+    color: black;
+}
+
+.part1 {
+    position: absolute;
+}
+
+.select1 {
+    position: absolute;
+    left: 350px;
+}
+
+.select2 {
+    position: absolute;
+    left: 900px;
+}
+
+.bouton {
+    position: absolute;
+    top: 150px;
+}
+
+.texte {
+    position: absolute;
+    left: 600px;
+    top: 250px;
+}
