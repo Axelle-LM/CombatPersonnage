@@ -7,5 +7,3 @@ Réaliser un petit jeu dans lequel nous pouvons :
   3. Supprimer un personnage
   4. Un personnage peut se régénérer
   5. Les personnages s'attaques entre eux, et s'enlève donc des pv
-
-Lien pour tester : http://poophp.nigon.butmmi.o2switch.site/
